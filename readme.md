@@ -144,7 +144,7 @@ quotes, Lua does not care. The length operator `#` will give the size in bytes:
 > s = 'hello'
 > #s
 5
-``
+```
 
 By _byte_ I mean a 8-bit value (the smallest addressable unit of memory); for
 ASCII text, a byte _is_ a character, but in general a character may be several bytes.
